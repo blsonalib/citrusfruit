@@ -3,3 +3,4 @@ Lemon is yellow
 Apple is red and not citrus
 Lime is green
 Blueberry are blue
+Rusberry are pink
