@@ -5,3 +5,4 @@ Lime is green
 Blueberry are blue
 Rusberry are pink
 Stoberry are red
+Cherry is dark red
